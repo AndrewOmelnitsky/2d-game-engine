@@ -1,3 +1,5 @@
+import pygame
+
 class KeyboardEvent(object):
     PRESSED: str = 'pressed'
     UP: str = 'up'
